@@ -1,2 +1,2 @@
-# seldon-example
+# Seldon Example
 Seldon example
