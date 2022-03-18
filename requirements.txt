@@ -1,0 +1,7 @@
+pandas==1.4.1
+sklearn
+ruamel.yaml
+flask
+gunicorn
+fire
+requests
