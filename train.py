@@ -8,7 +8,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.model_selection import KFold
 from sklearn.metrics import accuracy_score
-from joblib
+import joblib
 
 
 #import train and test dataset
